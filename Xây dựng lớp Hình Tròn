@@ -19,6 +19,7 @@
             this.getArea = function () {
                 return Math.PI * radius * radius;
             }
+            package
         };
         let cricle = new Circle(2);
         let radius = cricle.getRadius();
